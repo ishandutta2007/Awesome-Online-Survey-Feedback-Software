@@ -20,14 +20,14 @@
 
 Commercial, cloud-hosted Online Survey and Feedback Software platforms. These are not open-source but are included as reference points for feature comparison.
 
-| Platform | Starting Price | Free Tier Limit | Description |
-| :--- | :--- | :--- | :--- |
-| **Google Forms** | $7/user/month (via Google Workspace Business Starter; standalone tool is $0) | Free forever (Unlimited surveys and responses; limited only by 10M cell Google Sheet limit and 15 GB shared Google Drive storage) | Free, simple form builder within Google Workspace integrated with Google Sheets for response collection. |
-| **Typeform** | $28/month (billed annually) or $39/month (billed monthly) | Free forever (10 responses/month across all forms, unlimited forms) | Conversational, design-focused form builder popularized for one-question-at-a-time form experience. |
-| **Jotform** | $34/month (billed annually) or $39/month (billed monthly) | Free forever (5 active forms, 100 submissions/month, 500 total stored submissions, 100 MB storage, 10 payment submissions/month) | Form builder with extensive integrations, drag-and-drop builder, and payment support. |
-| **Alchemer** | $55/user/month (billed monthly) or $26.25/user/month ($315/year billed annually) | 7-day free trial (Full evaluation access to features and response collection; no credit card required) | Enterprise survey platform with advanced logic, custom workflows, and deep reporting. |
-| **SurveyMonkey** | $39/month (billed annually at $468/yr) or $149/month (billed monthly) | Free forever (10 questions per survey, 40 viewable responses per survey, unlimited surveys, no data export) | Industry-standard survey platform offering extensive template libraries, logic branching, and analytics. |
-| **Qualtrics CoreXM** | $420/month ($5,040/year billed annually for self-serve Strategic Research; CoreXM enterprise starts ~$25,000–$50,000/year) | Free forever (500 total lifetime responses, up to 3 active surveys, max 30 questions per survey, 1 user) | Enterprise experience management platform providing sophisticated statistical analysis and multi-channel feedback collection. |
+| Platform | Company Size (Valuation / Revenue) | Starting Price | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Google Forms** | ~$2.1T+ market cap / ~$350B+ ann. rev (Alphabet) | $7/user/month (via Google Workspace Business Starter; standalone tool is $0) | Free forever (Unlimited surveys and responses; limited only by 10M cell Google Sheet limit and 15 GB shared Google Drive storage) | Free, simple form builder within Google Workspace integrated with Google Sheets for response collection. |
+| **Qualtrics CoreXM** | $13B acquisition valuation / ~$1.4B+ ann. rev | $420/month ($5,040/year billed annually for self-serve Strategic Research; CoreXM enterprise starts ~$25,000–$50,000/year) | Free forever (500 total lifetime responses, up to 3 active surveys, max 30 questions per survey, 1 user) | Enterprise experience management platform providing sophisticated statistical analysis and multi-channel feedback collection. |
+| **SurveyMonkey** | ~$4.1B peak valuation (STG acquisition) / ~$480M+ ann. rev | $39/month (billed annually at $468/yr) or $149/month (billed monthly) | Free forever (10 questions per survey, 40 viewable responses per survey, unlimited surveys, no data export) | Industry-standard survey platform offering extensive template libraries, logic branching, and analytics. |
+| **Typeform** | $935M valuation (Series C) / ~$90M+ ARR | $28/month (billed annually) or $39/month (billed monthly) | Free forever (10 responses/month across all forms, unlimited forms) | Conversational, design-focused form builder popularized for one-question-at-a-time form experience. |
+| **Alchemer** | ~$400M–$500M valuation (KKR-backed) / ~$40M+ ARR | $55/user/month (billed monthly) or $26.25/user/month ($315/year billed annually) | 7-day free trial (Full evaluation access to features and response collection; no credit card required) | Enterprise survey platform with advanced logic, custom workflows, and deep reporting. |
+| **Jotform** | Bootstrapped ($0 VC raised) / ~$145M+ ann. rev | $34/month (billed annually) or $39/month (billed monthly) | Free forever (5 active forms, 100 submissions/month, 500 total stored submissions, 100 MB storage, 10 payment submissions/month) | Form builder with extensive integrations, drag-and-drop builder, and payment support. |
 
 ---
 
