@@ -10,18 +10,7 @@
 ## 📋 Table of Contents
 
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [SurveyMonkey](#surveymonkey)
-  - [Typeform](#typeform)
-  - [Qualtrics CoreXM](#qualtrics-corexm)
-  - [Google Forms](#google-forms)
-  - [Jotform](#jotform)
-  - [Alchemer](#alchemer)
 - [Open-Source Software](#-open-source-software)
-  - [LimeSurvey](#limesurvey)
-  - [Formbricks](#formbricks)
-  - [OpnForm](#opnform)
-  - [QuillForms](#quillforms)
-  - [OpenFlow](#openflow)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
 
@@ -31,29 +20,14 @@
 
 Commercial, cloud-hosted Online Survey and Feedback Software platforms. These are not open-source but are included as reference points for feature comparison.
 
-### SurveyMonkey
-**Type:** Industry-standard survey platform with extensive templates
-SurveyMonkey is the most widely recognized survey platform, offering a large template library, logic branching, and analytics. It is the benchmark against which open-source alternatives like LimeSurvey and Formbricks are measured[citation:1][citation:5].
-
-### Typeform
-**Type:** Conversational, design-focused form builder
-Typeform popularized the one-question-at-a-time conversational form experience, with a strong focus on design and completion rates. It is the primary commercial reference for open-source alternatives like OpnForm, QuillForms, and Formbricks[citation:2][citation:9].
-
-### Qualtrics CoreXM
-**Type:** Enterprise experience management platform
-Qualtrics CoreXM provides advanced survey research, analytics, and experience management capabilities. It is positioned for enterprises needing sophisticated statistical analysis and multi-channel feedback collection, and is the benchmark for Formbricks' positioning as an "open-source Qualtrics alternative".
-
-### Google Forms
-**Type:** Free, simple form builder within Google Workspace
-Google Forms provides basic survey and form creation at no cost, integrated with Google Sheets for response collection. It is the default entry point for simple surveys, though it lacks advanced logic and customization.
-
-### Jotform
-**Type:** Form builder with extensive integrations and payment support
-Jotform offers form creation with drag-and-drop building, payment processing, and a large integration library. It is positioned for businesses needing forms beyond simple surveys, including registrations and payments.
-
-### Alchemer
-**Type:** Enterprise survey platform with advanced logic
-Alchemer (formerly SurveyGizmo) provides survey creation with advanced logic, reporting, and enterprise integrations. It is positioned for organizations needing more sophisticated survey workflows than basic tools offer.
+| Platform | Starting Price | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **Google Forms** | $7/user/month (via Google Workspace Business Starter; standalone tool is $0) | Free forever (Unlimited surveys and responses; limited only by 10M cell Google Sheet limit and 15 GB shared Google Drive storage) | Free, simple form builder within Google Workspace integrated with Google Sheets for response collection. |
+| **Typeform** | $28/month (billed annually) or $39/month (billed monthly) | Free forever (10 responses/month across all forms, unlimited forms) | Conversational, design-focused form builder popularized for one-question-at-a-time form experience. |
+| **Jotform** | $34/month (billed annually) or $39/month (billed monthly) | Free forever (5 active forms, 100 submissions/month, 500 total stored submissions, 100 MB storage, 10 payment submissions/month) | Form builder with extensive integrations, drag-and-drop builder, and payment support. |
+| **Alchemer** | $55/user/month (billed monthly) or $26.25/user/month ($315/year billed annually) | 7-day free trial (Full evaluation access to features and response collection; no credit card required) | Enterprise survey platform with advanced logic, custom workflows, and deep reporting. |
+| **SurveyMonkey** | $39/month (billed annually at $468/yr) or $149/month (billed monthly) | Free forever (10 questions per survey, 40 viewable responses per survey, unlimited surveys, no data export) | Industry-standard survey platform offering extensive template libraries, logic branching, and analytics. |
+| **Qualtrics CoreXM** | $420/month ($5,040/year billed annually for self-serve Strategic Research; CoreXM enterprise starts ~$25,000–$50,000/year) | Free forever (500 total lifetime responses, up to 3 active surveys, max 30 questions per survey, 1 user) | Enterprise experience management platform providing sophisticated statistical analysis and multi-channel feedback collection. |
 
 ---
 
