@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Feedback-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Survey-Feedback-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Feedback-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Survey-Feedback-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Feedback-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Survey-Feedback-Software?style=social" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,9 +57,9 @@ Commercial, cloud-hosted Online Survey and Feedback Software platforms. These ar
 
 ## 🟩 Open-Source Software
 
-Self-hosted, privacy-first, community-driven Online Survey and Feedback Software tools. Repositories below are ordered by GitHub star counts (descending).
+Self-hosted, privacy-first, community-driven Online Survey and Feedback Software tools. Repositories below are ordered by GitHub Stars_Counts (descending).
 
-### Formbricks [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🧱
+### Formbricks [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🧱
 **Stack:** TypeScript / Next.js / PostgreSQL / Redis | **License:** AGPLv3 (core) / Enterprise (separate)  
 Formbricks is the leading open-source **experience management (XM) suite**, explicitly positioned as an open-source alternative to Qualtrics, Typeform, SurveyMonkey, and Google Forms. It goes beyond simple surveys with:
 - **In-app micro-surveys** with precise user targeting based on user attributes, events, and segments
@@ -75,7 +75,7 @@ Formbricks is the leading open-source **experience management (XM) suite**, expl
 
 ---
 
-### Typebot [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers) 🤖
+### Typebot [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers) 🤖
 **Stack:** TypeScript / Next.js / React / Prisma / PostgreSQL | **License:** AGPL-3.0  
 Typebot is a powerful conversational form and chatbot builder that allows you to collect data, feedback, and leads conversive chat experiences. It is an open-source alternative to Typeform and Landbot:
 - **Visual drag-and-drop builder** with modular blocks for logic, questions, conditional forks, and API calls
@@ -89,7 +89,7 @@ Typebot is a powerful conversational form and chatbot builder that allows you to
 
 ---
 
-### HeyForm [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers) ⚡
+### HeyForm [![GitHub_Stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers) ⚡
 **Stack:** TypeScript / React / Vite / Node.js / MongoDB | **License:** AGPL-3.0  
 HeyForm is a modern, open-source online form builder that enables you to create interactive conversational surveys, quizzes, and polls with zero coding knowledge:
 - **Interactive form blocks** supporting multiple-choice, picture selection, ratings, NPS, signatures, and file uploads
@@ -103,7 +103,7 @@ HeyForm is a modern, open-source online form builder that enables you to create 
 
 ---
 
-### SurveyJS [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers) 🧩
+### SurveyJS [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers) 🧩
 **Stack:** JavaScript / TypeScript (React, Angular, Vue 3, jQuery) | **License:** MIT (Core libraries)  
 SurveyJS is a free and open-source JSON-driven JavaScript form library and questionnaire framework designed for deep developer embedding:
 - **Framework agnostic** with native UI components for React, Angular, Vue, and vanilla JavaScript
@@ -117,7 +117,7 @@ SurveyJS is a free and open-source JSON-driven JavaScript form library and quest
 
 ---
 
-### OpnForm [![GitHub stars](https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white)](https://github.com/OpnForm/OpnForm/stargazers) 📋
+### OpnForm [![GitHub_Stars](https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white)](https://github.com/OpnForm/OpnForm/stargazers) 📋
 **Stack:** Laravel / Nuxt / PostgreSQL / Redis | **License:** AGPL-3.0  
 OpnForm is a lightweight, open-source **Typeform alternative** built on Laravel and Nuxt. It focuses on beautiful, performant surveys, contact forms, and lead generation:
 - **Drag-and-drop builder** with real-time preview and intuitive editing
@@ -131,7 +131,7 @@ OpnForm is a lightweight, open-source **Typeform alternative** built on Laravel 
 
 ---
 
-### LimeSurvey [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) 🍋
+### LimeSurvey [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) 🍋
 **Stack:** PHP / MySQL / PostgreSQL / MariaDB | **License:** GPL v2.0  
 LimeSurvey is the veteran powerhouse of open-source surveying, in active development for over two decades and trusted across universities, governments, and enterprise market research teams:
 - **Unlimited surveys, questions, and responses** with 30+ sophisticated question types and 900+ community templates
@@ -145,7 +145,7 @@ LimeSurvey is the veteran powerhouse of open-source surveying, in active develop
 
 ---
 
-### QuillForms [![GitHub stars](https://img.shields.io/github/stars/quillforms/quillforms?style=social&color=white)](https://github.com/quillforms/quillforms/stargazers) ✒️
+### QuillForms [![GitHub_Stars](https://img.shields.io/github/stars/quillforms/quillforms?style=social&color=white)](https://github.com/quillforms/quillforms/stargazers) ✒️
 **Stack:** React / TypeScript / WordPress | **License:** Open Source  
 QuillForms is a modern conversational form and survey builder designed specifically for the WordPress ecosystem as an open-source Typeform alternative:
 - **Conversational multi-step forms** that present questions one step at a time for maximum engagement
@@ -158,7 +158,7 @@ QuillForms is a modern conversational form and survey builder designed specifica
 
 ---
 
-### FormsLab [![GitHub stars](https://img.shields.io/github/stars/Ryczko/FormsLab?style=social&color=white)](https://github.com/Ryczko/FormsLab/stargazers) 🔬
+### FormsLab [![GitHub_Stars](https://img.shields.io/github/stars/Ryczko/FormsLab?style=social&color=white)](https://github.com/Ryczko/FormsLab/stargazers) 🔬
 **Stack:** TypeScript / Next.js / React / Prisma / MongoDB | **License:** MIT  
 FormsLab is an emerging, modern open-source web application designed for fast, anonymous feedback, polls, and custom survey creation:
 - **Minimalist clean interface** built on Next.js App Router and Tailwind CSS
@@ -171,7 +171,7 @@ FormsLab is an emerging, modern open-source web application designed for fast, a
 
 ---
 
-### OpenFlow [![GitHub stars](https://img.shields.io/github/stars/vidual-labs/openflow?style=social&color=white)](https://github.com/vidual-labs/openflow/stargazers) 🌊
+### OpenFlow [![GitHub_Stars](https://img.shields.io/github/stars/vidual-labs/openflow?style=social&color=white)](https://github.com/vidual-labs/openflow/stargazers) 🌊
 **Stack:** Node.js / React / SQLite | **License:** Open Source  
 OpenFlow is a lightweight, self-hosted lead-generation form builder and multi-step survey maker tailored for startups, agencies, and small businesses:
 - **Drag-and-drop form canvas** with responsive preview and customizable styling
@@ -186,7 +186,7 @@ OpenFlow is a lightweight, self-hosted lead-generation form builder and multi-st
 
 ## 📊 Comparison at a Glance
 
-| Software | Model | Stars | Stack | In-App Surveys | Logic Branching | Self-Hosted | Best For |
+| Software | Model | GitHub_Stars | Stack | In-App Surveys | Logic Branching | Self-Hosted | Best For |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Google Forms** 📝 | SaaS | N/A | Cloud | ❌ | ⚠️ Basic | ❌ | Free simple surveys & spreadsheets |
 | **Qualtrics CoreXM** 🏢 | SaaS | N/A | Cloud | ✅ | ✅ Advanced | ❌ | Enterprise experience management & research |
@@ -246,3 +246,12 @@ All product trademarks, logos, and repository brandings belong to their respecti
 <p align="center">
   ⭐ <b>If this list helped you discover a useful tool, please star the repo!</b> ⭐
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Online-Survey-Feedback-Software&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Online-Survey-Feedback-Software_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Online-Survey-Feedback-Software_growth.svg">
+  </picture>
+</a>
