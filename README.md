@@ -9,10 +9,17 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [Open-Source Software](#-open-source-software)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The global online survey and feedback software market is currently estimated between **$5.1 billion and $6.4 billion**, projected to grow at a CAGR of **13% to 18%** to exceed **$15B–$25B+** over the next decade. The sector is **moderately to highly fragmented** rather than winner-take-all: low barriers to entry for simple form building and wide variations in customer needs sustain numerous niche players, though enterprise experience management (XM) exhibits higher concentration around heavyweights like Qualtrics, SurveyMonkey, and Medallia.
 
 ---
 
